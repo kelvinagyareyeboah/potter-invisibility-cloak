@@ -1,43 +1,69 @@
 import cv2
 import numpy as np
 
+# Initialize webcam
 cam = cv2.VideoCapture(0)
 
-for i in range(30):
-    status, background = cam.read()
+if not cam.isOpened():
+    print("Error: Could not access webcam.")
+    exit()
 
-if not status:
+# Capture background
+for _ in range(30):
+    success, background = cam.read()
+
+if not success:
     print("Failed to capture background.")
     cam.release()
     exit()
 
-background = np.flip(background, axis=1)
-print("Background Captured...")
+background = cv2.flip(background, 1)
+print("Background Captured Successfully!")
 
-while cam.isOpened():
-    return_val, img = cam.read()
-    if not return_val:
+# Morphological kernel
+kernel = np.ones((3, 3), np.uint8)
+
+while True:
+    success, frame = cam.read()
+
+    if not success:
+        print("Failed to read frame.")
         break
 
-    img = np.flip(img, axis=1)
+    # Flip frame horizontally
+    frame = cv2.flip(frame, 1)
 
-    hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+    # Convert BGR to HSV
+    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
 
+    # Green color range
     lower_green = np.array([50, 80, 50])
     upper_green = np.array([90, 255, 255])
 
+    # Create mask
     mask = cv2.inRange(hsv, lower_green, upper_green)
-    mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, np.ones((3, 3), np.uint8), iterations=2)
-    mask = cv2.morphologyEx(mask, cv2.MORPH_DILATE, np.ones((3, 3), np.uint8), iterations=1)
 
-    cloth = cv2.bitwise_and(background, background, mask=mask)
+    # Noise removal
+    mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, kernel, iterations=2)
+    mask = cv2.dilate(mask, kernel, iterations=1)
+
+    # Inverse mask
     inverse_mask = cv2.bitwise_not(mask)
-    current = cv2.bitwise_and(img, img, mask=inverse_mask)
-    combined = cv2.add(cloth, current)
 
-    cv2.imshow("Magic Happens Here", combined)
+    # Segment images
+    cloak_area = cv2.bitwise_and(background, background, mask=mask)
+    visible_area = cv2.bitwise_and(frame, frame, mask=inverse_mask)
+
+    # Final output
+    output = cv2.add(cloak_area, visible_area)
+
+    # Display result
+    cv2.imshow("Magic Cloak", output)
+
+    # Press 'q' to quit
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
+# Release resources
 cam.release()
 cv2.destroyAllWindows()
