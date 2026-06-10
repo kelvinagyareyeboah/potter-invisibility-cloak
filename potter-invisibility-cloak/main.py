@@ -1,9 +1,6 @@
 
 en, upper_green)
-
-    # Noise removal
-    mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, kernel, iterations=2)
-    mask = cv2.dilate(mask, kernel, iterations=1)
+te(mask, kernel, iterations=1)
 
     # Inverse mask
     inverse_mask = cv2.bitwise_not(mask)
