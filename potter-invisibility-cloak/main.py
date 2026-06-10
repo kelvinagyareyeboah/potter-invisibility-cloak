@@ -1,7 +1,4 @@
-import cv2
-impor
-#
-cam = c
+
     pr
     print("
 backgr
