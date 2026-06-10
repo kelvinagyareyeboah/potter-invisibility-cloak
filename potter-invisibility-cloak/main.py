@@ -1,7 +1,4 @@
-
-
-    # Flip frame horizontally
-    frame = cv2.flip(frame, 1)
+e, 1)
 
     # Convert BGR olor(frame, cv2.COLOR_BGR2HSV)
 
