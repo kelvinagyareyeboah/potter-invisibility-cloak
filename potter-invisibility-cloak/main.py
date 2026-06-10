@@ -1,6 +1,5 @@
 
-while True:
-    success, frame = cam.read()
+while e = cam.read()
 
     if not success:
         prinad frame.")
