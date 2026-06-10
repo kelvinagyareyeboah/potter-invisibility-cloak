@@ -1,9 +1,5 @@
 
-
-    upper_green = np.array([90, 255, 255])
-
-    # Create mask
-    mask = cv2.inRange(hsv, lower_green, upper_green)
+en, upper_green)
 
     # Noise removal
     mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, kernel, iterations=2)
