@@ -11,7 +11,7 @@ while True:
     success, frame = cam.read()
 
     if not success:
-        print("Failed to read frame.")
+        prinad frame.")
         break
 
     # Flip frame horizontally
