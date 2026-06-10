@@ -1,5 +1,4 @@
 
-en, upper_green)
 te(mask, kernel, iterations=1)
 
     # Inverse mask
