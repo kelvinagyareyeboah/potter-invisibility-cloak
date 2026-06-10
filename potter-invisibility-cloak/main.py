@@ -4,5 +4,4 @@
 
     # Display
     if cv2.waitKey(1
-cam.release()
-cv2.destroy
+cam.relea
