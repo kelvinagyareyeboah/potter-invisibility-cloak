@@ -1,8 +1,7 @@
 import cv2
 impor
 #
-cam = cv2.VideoCapture(0)
-
+cam = cv2.Vi
 if n
     print("Error: Could not access webcam.")
     exit()
