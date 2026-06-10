@@ -1,6 +1,5 @@
 
-    # Segment images
-    cloak_area = cv2.bitwise_and(background, background, mask=mask)
+    # Segment imagesground, mask=mask)
     visible_area = cv2.bitwise_and(frame, frame, mask=invers
     output = cv2.add(cloak_area, visible_area)
 
