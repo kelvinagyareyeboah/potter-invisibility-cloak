@@ -1,7 +1,4 @@
 
-    # Inverse mask
-    inverse_mask = cv2.bitwise_not(mask)
-
     # Segment images
     cloak_area = cv2.bitwise_and(background, background, mask=mask)
     visible_area = cv2.bitwise_and(frame, frame, mask=inverse_mask)
