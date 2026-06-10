@@ -1,8 +1,7 @@
 import cv2
 impor
 #
-cam = cv2.Vi
-if n
+cam = c
     print("Error: Could not access
     success, background = 
 
