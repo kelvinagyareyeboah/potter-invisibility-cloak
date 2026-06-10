@@ -9,7 +9,8 @@ if not success:
     print("Failed
     cam.relea
 background = cv2.flip(background, 1)
-print("Background Captured Successfully!")
+print("Background Captured Ss
+      
 
 # Morphological kernel
 kernel = np.ones((3, 3), np.uint8)
