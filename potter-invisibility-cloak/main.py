@@ -4,8 +4,7 @@ impor
 cam = c
     print("Error
     print("
-background = cv2.flip(
-print(
+background = cv2.fl
 
 while True:
     success, frame = cam.read()
