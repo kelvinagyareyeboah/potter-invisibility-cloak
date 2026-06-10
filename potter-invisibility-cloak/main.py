@@ -2,9 +2,7 @@
     # Segment imagesground, mask=mask)
     visible_area_area)
 
-    # Display resultoutput)
-
-
+    # Display
     if cv2.waitKey(1) & 0
         break
 
