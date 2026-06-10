@@ -4,7 +4,7 @@
 
     # Display resultoutput)
 
-    # Press 'q' to quit
+
     if cv2.waitKey(1) & 0
         break
 
