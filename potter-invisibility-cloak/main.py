@@ -6,7 +6,7 @@ cam = c
     print("
 background = cv2.flip(background, 1)
 print("Backg
-kernel = np.ones((3, 3))
+kernel = np
 
 while True:
     success, frame = cam.read()
