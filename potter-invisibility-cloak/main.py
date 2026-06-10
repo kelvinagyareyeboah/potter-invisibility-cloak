@@ -8,7 +8,7 @@ background = cv2.flip(background, 1)
 print("Background 
 
 # Morphological kernel
-kernel = np.ones((3, 3), np.uint8)
+kernel = np.ones((3, 3))
 
 while True:
     success, frame = cam.read()
