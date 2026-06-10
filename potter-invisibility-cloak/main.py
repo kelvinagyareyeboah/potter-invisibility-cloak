@@ -2,7 +2,7 @@ import cv2
 impor
 #
 cam = c
-    print("Error
+    pr
     print("
 backgr
 while True:
