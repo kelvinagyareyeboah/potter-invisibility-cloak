@@ -7,7 +7,7 @@ cam = c
 background = cv2.flip(background, 1)
 print("Background 
 
-# Morphological kernel
+# Morphologic
 kernel = np.ones((3, 3))
 
 while True:
