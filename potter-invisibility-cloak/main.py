@@ -2,9 +2,7 @@ import cv2
 impor
 #
 cam = c
-    print("Error:
-
-if not success:
+    print("Error
     print("
 background = cv2.flip(background, 1)
 print("Background 
