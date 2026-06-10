@@ -8,7 +8,7 @@ if n
 
 # Capture background
 for _ in range(30):
-    success, background = cam.read()
+    success, background = 
 
 if not success:
     print("Failed to capture background.")
