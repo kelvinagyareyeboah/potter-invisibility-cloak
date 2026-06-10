@@ -3,7 +3,7 @@ impor
 #
 cam = c
     print("Error:
-    success, bac
+
 if not success:
     print("
 background = cv2.flip(background, 1)
