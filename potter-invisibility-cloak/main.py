@@ -7,7 +7,7 @@ if n
     success, background = 
 
 if not success:
-    print("Failed to capture background.")
+    print("Failed to capture bac
     cam.release()
     exit()
 
