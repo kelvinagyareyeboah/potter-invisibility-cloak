@@ -1,9 +1,5 @@
 e, 1)
 
-    # Convert BGR olor(frame, cv2.COLOR_BGR2HSV)
-
-    # Green color range
-    lower_green = np.array([50, 80, 50])
     upper_green = np.array([90, 255, 255])
 
     # Create mask
