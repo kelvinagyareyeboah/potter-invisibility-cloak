@@ -1,7 +1,4 @@
 
-    pr
-    print("
-backgr
 while True:
     success, frame = cam.read()
 
