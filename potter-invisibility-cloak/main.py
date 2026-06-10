@@ -6,7 +6,7 @@ if n
     print("Error: Could not access webc
 
 # Captur
-for _ in range(30):
+for _
     success, background = 
 
 if not success:
