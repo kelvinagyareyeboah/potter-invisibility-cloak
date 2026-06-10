@@ -4,7 +4,7 @@ import numpy as np
 #
 cam = cv2.VideoCapture(0)
 
-if not cam.isOpened():
+if n
     print("Error: Could not access webcam.")
     exit()
 
