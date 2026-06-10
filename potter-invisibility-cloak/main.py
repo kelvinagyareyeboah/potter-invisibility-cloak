@@ -1,6 +1,5 @@
 import cv2
-import numpy as np
-
+impor
 #
 cam = cv2.VideoCapture(0)
 
