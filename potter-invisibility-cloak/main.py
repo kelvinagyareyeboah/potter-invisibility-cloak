@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-# Initialize webcam
+#
 cam = cv2.VideoCapture(0)
 
 if not cam.isOpened():
