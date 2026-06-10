@@ -1,6 +1,4 @@
 
-        prinad frame.")
-        break
 
     # Flip frame horizontally
     frame = cv2.flip(frame, 1)
