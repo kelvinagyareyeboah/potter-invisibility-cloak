@@ -7,8 +7,7 @@ cam = c
 if not success:
     print("
 background = cv2.flip(background, 1)
-print("Background Captured Ss
-      
+print("Background 
 
 # Morphological kernel
 kernel = np.ones((3, 3), np.uint8)
