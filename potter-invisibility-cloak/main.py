@@ -4,7 +4,7 @@ impor
 cam = c
     print("Error
     print("
-background = cv2.flip(background, 1)
+background = cv2.flip(
 print("Backg
 kernel = np
 
