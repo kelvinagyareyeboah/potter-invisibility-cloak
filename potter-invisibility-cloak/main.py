@@ -1,6 +1,4 @@
 
-te(mask, kernel, iterations=1)
-
     # Inverse mask
     inverse_mask = cv2.bitwise_not(mask)
 
