@@ -2,7 +2,7 @@ import cv2
 impor
 #
 cam = c
-    print("Error: Could not
+    print("Error:
     success, background = 
 
 if not success:
