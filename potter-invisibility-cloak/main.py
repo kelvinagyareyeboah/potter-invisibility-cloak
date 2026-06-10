@@ -5,8 +5,7 @@ cam = c
     print("Error
     print("
 background = cv2.flip(
-print("Backg
-kernel = np
+print(
 
 while True:
     success, frame = cam.read()
