@@ -3,8 +3,7 @@ impor
 #
 cam = cv2.Vi
 if n
-    print("Error: Could not access webcam.")
-    exit()
+    print("Error: Could not access webc
 
 # Captur
 for _ in range(30):
