@@ -4,8 +4,7 @@
     visible_area = cv2.bitwise_and(frame, frame, mask=invers
     output = cv2.add(cloak_area, visible_area)
 
-    # Display result
-    cv2.imshow("Magic Cloak", output)
+    # Display resultoutput)
 
     # Press 'q' to quit
     if cv2.waitKey(1) & 0xFF == ord('q'):
