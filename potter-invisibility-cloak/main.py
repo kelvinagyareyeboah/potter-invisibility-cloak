@@ -3,8 +3,7 @@
     # Flip frame horizontally
     frame = cv2.flip(frame, 1)
 
-    # Convert BGR to HSV
-    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+    # Convert BGR olor(frame, cv2.COLOR_BGR2HSV)
 
     # Green color range
     lower_green = np.array([50, 80, 50])
