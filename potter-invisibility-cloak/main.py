@@ -6,7 +6,7 @@ if n
     print("Error: Could not access webcam.")
     exit()
 
-# Capture background
+# Captur
 for _ in range(30):
     success, background = 
 
