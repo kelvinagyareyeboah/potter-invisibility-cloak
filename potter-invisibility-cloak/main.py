@@ -1,7 +1,4 @@
 
-while e = cam.read()
-
-    if
         prinad frame.")
         break
 
