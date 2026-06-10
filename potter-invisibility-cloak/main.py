@@ -1,4 +1,4 @@
-e, 1)
+
 
     upper_green = np.array([90, 255, 255])
 
