@@ -5,9 +5,7 @@ cam = c
     print("Error
     print("
 background = cv2.flip(background, 1)
-print("Background 
-
-# Morp
+print("Backg
 kernel = np.ones((3, 3))
 
 while True:
