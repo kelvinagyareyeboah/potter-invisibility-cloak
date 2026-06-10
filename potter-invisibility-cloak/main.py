@@ -7,9 +7,7 @@ cam = c
 
 if not success:
     print("Failed to capture bac
-    cam.release()
-    exit()
-
+    cam.relea
 background = cv2.flip(background, 1)
 print("Background Captured Successfully!")
 
