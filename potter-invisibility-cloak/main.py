@@ -7,7 +7,7 @@ print("Capturing background... Please move out of the frame.")
 # ==================
 
 for i in range(60):
-    ret, frame = cap.read()
+    ret, 
 
     if not ret:
         continue
