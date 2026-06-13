@@ -1,9 +1,4 @@
-wer_green,
-        iterations=2
-    )
 
-    mask = cv2.morphologyEx(
-        mask,
         
         iterations=2
     )
