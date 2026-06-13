@@ -6,7 +6,7 @@ prev_time = time.time()
 
 
 
-    ret, frame = cap.read()
+    ret,
 
     if not ret:
         break
