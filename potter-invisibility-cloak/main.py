@@ -4,7 +4,6 @@ wer_green,
 
     mask = cv2.morphologyEx(
         mask,
-        cv2.MORPH_CLOSE,
         
         iterations=2
     )
