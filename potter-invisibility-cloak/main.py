@@ -1,12 +1,6 @@
 
     # ==================================
-    # Create Invisible Effect
-    # ==================================
-    cloak = cv2.bitwise_and(background, background, mask=mask)
-
-    visible = cv2.bitwise_and(frame, frame, mask=inverse_mask)
-
-    output = cv2.addWeighted(cloak, 1, visible, 1, 0)
+    # Create Invisible Ef
 
     # ==================================
     # FPS Counter
