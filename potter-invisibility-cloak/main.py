@@ -1,6 +1,5 @@
 
-nd..Weighted(frame, background, 0.1)
-background = cv2.convertScale
+nd..WeighertScale
 
 print("Background captured successfully!")
 print("Wear a GREEN cloth and enjoy the invisibility effect.")
