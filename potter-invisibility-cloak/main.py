@@ -1,7 +1,4 @@
-import cv2
-
-if not cap.isO
-cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
+P_FRAME_WIDTH, 1280)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
 
 print("Capturing background... Please move out of the frame.")
