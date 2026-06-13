@@ -1,7 +1,5 @@
 p.uint8)
 
-# FPS Variables
-prev_time = time.time()
 
 
 
