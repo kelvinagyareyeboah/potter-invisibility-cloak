@@ -7,7 +7,7 @@
     # ==================================
     # Green Color Detection
     # =========
-    lower_green = np.array([35, 50, 50])
+    lower_green
     upper_green = np.array([90, 255, 255])
 
     mask = cv2.inRange(hsv, lower_green, upper_green)
