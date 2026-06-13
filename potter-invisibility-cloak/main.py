@@ -1,7 +1,5 @@
 
-nd... Please move o
-    else:
-        cv2.accumulateWeighted(frame, background, 0.1)
+nd..Weighted(frame, background, 0.1)
 background = cv2.convertScale
 
 print("Background captured successfully!")
