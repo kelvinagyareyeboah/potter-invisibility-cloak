@@ -1,8 +1,5 @@
 wer_green, upper_green)
-
-    # =========================
-    # ==================================
-    mask = cv2.morphologyEx(
+= cv2.morphologyEx(
         mask
         kernel_open,
         iterations=2
