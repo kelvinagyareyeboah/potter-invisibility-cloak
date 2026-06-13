@@ -8,8 +8,7 @@
     # =========================
     # ==================================
     mask = cv2.morphologyEx(
-        mask,
-        cv2.MORPH_OPEN,
+        mask
         kernel_open,
         iterations=2
     )
