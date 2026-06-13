@@ -3,10 +3,7 @@ nd... Please move out of the frame.")
 
 # =========================
 # Ca
-        continue
-
-    frame = cv2.f
-
+        contin
     if background is None:
         background = frame.astype(float)
     else:
