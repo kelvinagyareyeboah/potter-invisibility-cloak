@@ -1,6 +1,5 @@
 
-    # Green Color Detection
-    # ===
+    # Gre
     upper_green = np.array([90, 255, 255])
 
     mask = cv2.inRange(hsv, lower_green, upper_green)
