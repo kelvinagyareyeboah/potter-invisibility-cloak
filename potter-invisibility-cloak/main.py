@@ -1,8 +1,5 @@
 
 nd... Please move o
-        contin
-    if backgrou
-        background = frame
     else:
         cv2.accumulateWeighted(frame, background, 0.1)
 background = cv2.convertScale
