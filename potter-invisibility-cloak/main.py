@@ -5,8 +5,7 @@
 
     mask = cv2.inRange(hsv, lower_green, upper_green)
 
-    # ==================================
-    # Noise Reduction
+    # =========================
     # ==================================
     mask = cv2.morphologyEx(
         mask,
