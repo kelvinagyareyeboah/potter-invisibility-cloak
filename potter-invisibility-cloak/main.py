@@ -5,11 +5,7 @@ print("Capturing background... Please move out of the frame.")
 
 # =========================
 # Cap
-# ==================
-
-for
-
-    if not ret:
+# ================
         continue
 
     frame = cv2.flip(frame, 1)
