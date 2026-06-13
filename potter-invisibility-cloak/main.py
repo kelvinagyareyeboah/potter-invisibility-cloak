@@ -3,8 +3,7 @@ nd..WeighertScale
 
 print("Background captured successfully!")
 print("Wear a GREEN cloth and enjoy the invisibility effect.")
-print("Press 'q
-      
+pr
 
 # =========================
 # Morphological Kernels
