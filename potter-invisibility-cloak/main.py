@@ -2,9 +2,7 @@
 
     # ===========================
     # ==================================
-    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
-
-    # ==================================
+    hsv = c================
     # Green Color Detection
     # ===
     upper_green = np.array([90, 255, 255])
