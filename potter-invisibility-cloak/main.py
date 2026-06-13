@@ -2,8 +2,7 @@
 nd... Please move out of the frame.")
 
 # =========================
-# Cap
-# ================
+# Ca
         continue
 
     frame = cv2.f
