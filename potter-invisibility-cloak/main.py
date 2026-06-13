@@ -1,7 +1,4 @@
-
-    # Gre, 255, 255])
-
-    mask = cv2.inRange(hsv, lower_green, upper_green)
+wer_green, upper_green)
 
     # =========================
     # ==================================
