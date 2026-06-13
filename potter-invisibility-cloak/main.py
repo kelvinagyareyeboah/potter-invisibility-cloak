@@ -1,7 +1,5 @@
 
-print("Background captured successfully!")
-print("
-# =====
+print("Background captured successfu
 # Morphological Kernels
 # =========================
 kernel_open = np.ones((5, 5), np.uint8)
