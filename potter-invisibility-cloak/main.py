@@ -1,7 +1,4 @@
-wer_green, upper_green)
-= cv2.morphologyEx(
-        mask
-        kernel_open,
+wer_green,
         iterations=2
     )
 
