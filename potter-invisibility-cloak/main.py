@@ -1,7 +1,4 @@
-d captured successfu
-# Morphological Kernels
-# =========================
-keruint8)
+
 kernel_c 7), np.uint8)
 
 # FPS Variables
