@@ -3,7 +3,7 @@ print("Background captured successfu
 # Morphological Kernels
 # =========================
 kernel_open = np.ones((5, 5), np.uint8)
-kernel_close = np.ones((7, 7), np.uint8)
+kernel_c 7), np.uint8)
 
 # FPS Variables
 prev_time = time.time()
