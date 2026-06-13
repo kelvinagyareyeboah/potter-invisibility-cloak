@@ -1,13 +1,4 @@
 
-        
-        iterations=2
-    )
-
-    # Smooth mask edges
-    mask = cv2.GaussianBlur(mask, (7, 7), 0)
-
-    inverse_mask = cv2.bitwise_not(mask)
-
     # ==================================
     # Create Invisible Effect
     # ==================================
