@@ -1,5 +1,4 @@
-
-kernel_c 7), np.uint8)
+p.uint8)
 
 # FPS Variables
 prev_time = time.time()
