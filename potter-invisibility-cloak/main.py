@@ -4,7 +4,7 @@ nd... Please move out of the frame.")
 # =========================
 # Ca
         contin
-    if background is None:
+    if backgrou
         background = frame.astype(float)
     else:
         cv2.accumulateWeighted(frame, background, 0.1)
