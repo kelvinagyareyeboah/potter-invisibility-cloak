@@ -1,7 +1,5 @@
 
-nd... Please move out of the frame.")
-
-# =========
+nd... Please move o
         contin
     if backgrou
         background = frame
