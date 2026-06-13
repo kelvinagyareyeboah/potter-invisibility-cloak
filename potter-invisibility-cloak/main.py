@@ -1,7 +1,5 @@
 
 
-    if not ret:
-        break
 
     frame = cv2.flip(frame, 1)
 
