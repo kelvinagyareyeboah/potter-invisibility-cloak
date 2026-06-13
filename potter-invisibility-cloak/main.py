@@ -1,7 +1,5 @@
 
-
-cap.set(cv2.CAP_P
-print("Capturing background... Please move out of the frame.")
+nd... Please move out of the frame.")
 
 # =========================
 # Cap
