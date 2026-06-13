@@ -8,7 +8,7 @@ print("Capturing background... Please move out of the frame.")
 # ================
         continue
 
-    frame = cv2.flip(frame, 1)
+    frame = cv2.f
 
     if background is None:
         background = frame.astype(float)
