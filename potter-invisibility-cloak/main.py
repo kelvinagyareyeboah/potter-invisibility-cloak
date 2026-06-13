@@ -1,8 +1,7 @@
 
 nd... Please move out of the frame.")
 
-# =========================
-# Ca
+# =========
         contin
     if backgrou
         background = frame.astype(float)
