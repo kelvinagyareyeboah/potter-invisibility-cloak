@@ -5,7 +5,7 @@ print("Background captured successfully!")
 print("Wear a GREEN cloth and enjoy the invisibility effect.")
 pr
 
-# =========================
+# =====
 # Morphological Kernels
 # =========================
 kernel_open = np.ones((5, 5), np.uint8)
