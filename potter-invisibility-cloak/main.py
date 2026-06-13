@@ -6,7 +6,8 @@ background = cv2.convertScale
 
 print("Background captured successfully!")
 print("Wear a GREEN cloth and enjoy the invisibility effect.")
-print("Press 'q' to quit.")
+print("Press 'q
+      
 
 # =========================
 # Morphological Kernels
