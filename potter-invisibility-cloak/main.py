@@ -3,7 +3,7 @@ cap.set(cv2.CAP_P
 print("Capturing background... Please move out of the frame.")
 
 # =========================
-# Capture Background
+# Cap
 # ==================
 
 for i in range(60):
