@@ -1,4 +1,4 @@
-# 🧙 Ps://img.shor-the-badge&logo=python&
+# 🧙 Ps://img.shor-the-badgeon&
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![License](https://img.shielense-MIT-green?style=for-the-badge)
