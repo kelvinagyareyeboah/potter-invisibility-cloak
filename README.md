@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ How It Works
+## ✨ How 
 
 1. 📸 Captures a static **background** frame on startup
 2. 🎥 Reads each **live webcam frame**
