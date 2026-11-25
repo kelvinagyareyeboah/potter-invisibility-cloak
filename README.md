@@ -3,10 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
 > Real-time Harry Potter–style invisibility cloak effect usi
 
-## ✨ How 
-
-1. 📸 Captures a static **background** frame on startup
-2. 🎥 Reads each **live webcam frame**
+## ✨2. 🎥 Reads each **live webcam frame**
 3. 🟢 Detects **green pixels** using HSV color masking
 4. 🔁 Replaces green regions with the saved background
 5. 🪄 Outputs a seamless **invisibility effect** in real time
