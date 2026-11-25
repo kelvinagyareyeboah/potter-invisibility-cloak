@@ -1,7 +1,7 @@
 # 🧙 Ps://img.shor-the-b![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![License](https://img.shielense-MIT-green?style=for
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
-> Real-time Harry Potter–style invisibility cloak effect using a green
+> Real-time Harry Potter–style invisibility cloak effect usi
 
 ## ✨ How 
 
