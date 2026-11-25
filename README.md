@@ -9,8 +9,7 @@
 5. 🪄 Outputs a seamless **invisibility effect** in real time
 
 ---
-
-## 🛠️ Requirements
+##
 
 - Python 3.8+
 - A webcam
