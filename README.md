@@ -3,8 +3,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![License](https://img.shielense-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
-
-> Real-time Harry Potter–style invisibility cloak effect using a green cloth and your webcam.
+> Real-time Harry Potter–style invisibility cloak effect using a green cloth and y
 
 ---
 
