@@ -1,4 +1,4 @@
-# 🧙 Potter Inv
+# 🧙 P
 ![Python](https://img.shi776AB?style=for-the-badge&logo=python&
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=for-the-badge&logo=numpy&logoColor=white)
