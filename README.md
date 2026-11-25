@@ -6,11 +6,7 @@
 ## ✨2. 🎥 Reads each **live webcam frame**
 3. 🟢 Detects **green pixels** using HSV color masking
 4. 🔁 Replaces green regions with the saved background
-5. 🪄 Outputs a seamless **invisibility effect** in real time
-
----
-##
-
+5. 🪄 Outputs a seamless **invisibility effect*
 - Python 3.8+
 - A webcam
 - A **green cloth** (the "cloak")
