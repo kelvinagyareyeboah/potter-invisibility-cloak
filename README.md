@@ -5,8 +5,7 @@
 potter-invisibility-cloak/
 ├── main.py       # Core invisibility cl
 
-## ⚙️ Configuration
-
+## ⚙️ C
 Tune the HSV range in `main.py` to match your specific green cloth under your lighting:
 
 ```python
