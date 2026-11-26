@@ -1,4 +1,4 @@
-away from the camera** st few seconds while t
+the camera** st few seconds while t
 ## 📁 Pro
 potter-invisibility-cloak/
 ├── main.py 
