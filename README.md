@@ -3,7 +3,7 @@
 - Stand **away from the camera** st few seconds while t
 ## 📁 Pro
 potter-invisibility-cloak/
-├── main.py       # Core invisibility cl
+├── main.py       # Co
 
 ## ⚙️ C
 Tune the HSV range in `main.py` to match your specific green cloth under your lighting:
