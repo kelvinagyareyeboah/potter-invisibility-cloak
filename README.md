@@ -8,7 +8,7 @@
 Install dependencies:
 
 ```bash
-pip install opencv-python numpy
+pip install open
 ```
 
 ---
