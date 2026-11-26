@@ -1,7 +1,5 @@
 %7C%20Linux%20%7C%20macOS-lightgrey?style=for-th
-> Real-time
-``
-
+> 
 - Stand **away from the camera** for the first few seconds while the ba
 - Wear or hold the **gre
 ---
