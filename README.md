@@ -1,7 +1,7 @@
 %7C%20Linux%20%7C%20macOS-lightgrey?style=for-th
 > Real-time Harry Potter–style invisibi
 ## ✨2. 🎥 Reads each **live we
-3. 🟢 Detects **green pixels** us
+3. 🟢 Detects **green
 4. 🔁 Replaces green regions with 
 5. 🪄 Outputs a seamle
 - A webcam
