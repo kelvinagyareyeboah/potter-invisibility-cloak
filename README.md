@@ -1,9 +1,7 @@
 %7C%20Linux%20%7C%20macOS-lightgrey?style=for-th
 > 
 - Stand **away from the camera** for the first few seconds while t
-## 📁 Project Structure
-
-```
+## 📁 Pro
 potter-invisibility-cloak/
 ├── main.py       # Core invisibility cl
 
