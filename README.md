@@ -1,6 +1,4 @@
-
-## 📁 Pro
-potter-invisibility-cloak/
+ibility-cloak/
 ├── main.py 
 Tune the HSV range in `main.py` to match your specific green cloth under your lighting:
 
