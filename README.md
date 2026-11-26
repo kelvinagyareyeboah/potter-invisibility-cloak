@@ -3,7 +3,7 @@
 ## ✨2. 🎥 Reads each **live we
 3. 🟢 Detects **green pixels** using HSV color masking
 4. 🔁 Replaces green regions with the saved bac
-5. 🪄 Outputs a seamless **invisibil
+5. 🪄 Outputs a seamless 
 - Python 3.8+
 - A webcam
 - A **green cloth** (the "cloak")
