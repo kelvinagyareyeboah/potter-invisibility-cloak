@@ -1,5 +1,5 @@
 %7C%20Linux%20%7C%20macOS-lightgrey?style=for-th
-> Real-time Harry Potter–style invisibility cloak effect usi
+> Real-time Harry Potter–style invisibility cloak
 ## ✨2. 🎥 Reads each **live we
 3. 🟢 Detects **green pixels** using HSV color masking
 4. 🔁 Replaces green regions with the saved bac
