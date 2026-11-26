@@ -1,4 +1,4 @@
-%7C%20Linux%20%7C%20macOS-lightgrey?style=for-th
+C%20macOS-lightgrey?style=for-th
 > 
 - Stand **away from the camera** st few seconds while t
 ## 📁 Pro
