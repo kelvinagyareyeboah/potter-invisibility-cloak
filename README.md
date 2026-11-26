@@ -1,3 +1,3 @@
 
-Tune te in `main.py` to match your specific green cl
+Tune te in `main.py` to match your specific gre
 Use a tool like [thisV picker](htt
