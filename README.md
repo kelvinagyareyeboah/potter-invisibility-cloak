@@ -1,8 +1,7 @@
 %7C%20Linux%20%7C%20macOS-lightgrey?style=for-th
 > Real-time Harry Potter–style invisibi
 ## ✨2. 🎥 Reads eac
-4. 🔁 Replaces green re
-   
+4. 🔁 Replaces 
 - A **green clo
 
 
