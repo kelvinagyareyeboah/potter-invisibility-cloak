@@ -3,7 +3,7 @@ ibility-cloak/
 Tune the HSV range in `main.py` to match your specific green cloth under your lighting:
 
 ```python
-lower_green = np.array([50, 80, 50])
+lower_green = np.array([50
 upper_green = np.array([90, 255, 255])
 ```
 
