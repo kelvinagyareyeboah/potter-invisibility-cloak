@@ -1,4 +1,4 @@
-ightgrey?style=for-th
+
 > 
 - Stand **away from the camera** st few seconds while t
 ## 📁 Pro
