@@ -4,8 +4,7 @@
 --
 
 ```bash
-python main.py
-```
+python m
 
 - Stand **away from the camera** for the first few seconds while the background is captured
 - Wear or hold the **green cloth** in front of you
