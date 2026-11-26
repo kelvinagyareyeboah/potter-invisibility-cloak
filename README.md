@@ -5,7 +5,7 @@
 
 ```
 potter-invisibility-cloak/
-├── main.py       # Core invisibility cloak logic
+├── main.py       # Core invisibility clo
 └── README.md
 ```
 
