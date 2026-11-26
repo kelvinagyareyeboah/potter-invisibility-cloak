@@ -5,8 +5,7 @@
 - A **gr
 
 
-```bash
-pip install open
+```b
 ```
 
 ---
