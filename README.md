@@ -3,7 +3,7 @@
 ## ✨2. 🎥 Reads eac
 4. 🔁 Replaces green re
 5. 🪄 Outputs a se
-- A **green cloth** (the
+- A **green clo
 
 
 
