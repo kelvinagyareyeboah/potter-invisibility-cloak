@@ -1,7 +1,5 @@
 %7C%20Linux%20%7C%20macOS-lightgrey?style=for-th
-> Real-time Harry Potter–style invisibi
-## 
---
+> Real-time Harry Potter–style 
 
 ```bash
 python m
