@@ -1,3 +1,3 @@
 
-Tune te in `main.py` to match your speci
+Tune te in `main.py` to match your spec
 Use a tool l
