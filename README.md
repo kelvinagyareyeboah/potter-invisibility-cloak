@@ -5,7 +5,7 @@
 5. 🪄 Outputs a se
 - A **green cloth** (the
 
-Install dependencies:
+Install depe
 
 ```bash
 pip install open
