@@ -3,8 +3,7 @@
 ``
 
 - Stand **away from the camera** for the first few seconds while the ba
-- Wear or hold the **green cloth** in
-
+- Wear or hold the **gre
 ---
 
 ## 📁 Project Structure
