@@ -2,8 +2,7 @@
 > Real-time Harry Potter–style invisibi
 ## ✨2. 🎥 Reads eac
 4. 🔁 Replaces 
-- A **green clo
-
+- A **gr
 
 
 ```bash
