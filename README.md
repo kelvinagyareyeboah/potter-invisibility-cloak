@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/banner.png" alt="Potter Invisibility Cloak" widt
+<img src="docs/banner.png" alt="Potter Invisibility Cloak" wid
 
 # 🧙 Potter Invisibility Cloak
 
