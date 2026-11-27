@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/bannepng" al"Potter Invisibility C
+<img src="docs/bannepng" al"Potter Invisibility 
 
 # 🧙 Potter Invisibility Cloak
 
